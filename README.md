@@ -10,7 +10,7 @@ O repositório está organizado para facilitar a compreensão e a reprodução d
 
 - requirements.txt: Um arquivo que lista todas as bibliotecas Python necessárias e suas versões.
 
-- analise_cinematografica.ipynb: O notebook principal que documenta todas as etapas do projeto, incluindo:
+- LH_CD_NARARAQUELDIASANDRADE.ipynb: O notebook principal que documenta todas as etapas do projeto, incluindo:
 
   -- Análise Exploratória de Dados (EDA) e limpeza.
 
@@ -20,7 +20,7 @@ O repositório está organizado para facilitar a compreensão e a reprodução d
 
   --  Implementação do modelo de machine learning para previsão de notas.
 
-- modelo_imdb_rating.pkl: O modelo de regressão Random Forest treinado, salvo no formato .pkl.
+- modeloRF_imdb_rating.pkl: O modelo de regressão Random Forest treinado, salvo no formato .pkl.
 
 ## Como instalar e executar o projeto:
 
